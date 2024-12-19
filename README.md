@@ -2,7 +2,7 @@
 
 This repository contains the code and datasets used in our study on systematically benchmarking state-of-the-art AI-powered diffusion models for monomeric protein structure prediction. Our analysis focuses on three leading models—**AlphaFold 3**, **Protenix**, and **Chai-1**—evaluating their accuracy, robustness, and ability to detect subtle 3D structural variations in unseen protein structures.
 
-![Overview of the project](image.png)
+![Overview of the project](images/image1.png)
 
 ## Overview
 
