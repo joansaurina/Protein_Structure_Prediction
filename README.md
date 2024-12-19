@@ -21,3 +21,7 @@ Protein structure prediction is crucial for advancing computational biology, wit
 ## Goals
 
 This repository aims to provide a transparent and reproducible framework for evaluating current AI-driven structural prediction methods, emphasizing their strengths, limitations, and potential for future applications.
+
+# Analyze Metrics
+
+Run the script `python analyze.py` to calculate and display the mean of key metrics (PAE, RMSD, pLDDT, pTM) for different groups: **Chai**, **Fold**, and **Protenix**.
