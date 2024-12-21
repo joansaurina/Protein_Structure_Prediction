@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ## Running the Notebook
 
-1. **Download the dataset** from [this link](https://drive.google.com/file/d/120cllQGPHg7-JFyVCvFJberP956HvbIg/view?usp=sharing).
+1. **Download the dataset** from [this link](https://drive.google.com/file/d/120cllQGPHg7-JFyVCvFJberP956HvbIg/view?usp=sharing), unzip and place it in data folder.
 
 2. **Install the required dependencies**. Make sure you have all the prerequisites set up, as outlined in the `requirements.txt` file.
 
