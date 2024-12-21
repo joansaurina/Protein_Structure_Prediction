@@ -1,0 +1,8 @@
+pandas
+json
+numpy
+os
+re
+pymol
+subprocess
+uuid

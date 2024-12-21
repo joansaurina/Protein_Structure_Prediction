@@ -91,8 +91,3 @@ def process_metrics(file_path):
         print('\n')
         print(df_mean_pivot_by_difficulty)
         print('\n')
-
-if __name__ == "__main__":
-    # Path to the CSV file
-    file_path = 'data/data.csv'
-    process_metrics(file_path)
