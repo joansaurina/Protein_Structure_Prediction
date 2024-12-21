@@ -34,10 +34,12 @@ pip install -r requirements.txt
 
 ## Running the Notebook
 
-Once the dependencies are installed, follow these steps:
+1. **Download the dataset** from [this link](https://drive.google.com/file/d/120cllQGPHg7-JFyVCvFJberP956HvbIg/view?usp=sharing).
 
-```bash
-# Open the playground.ipynb notebook from the Jupyter web interface.
+2. **Install the required dependencies**. Make sure you have all the prerequisites set up, as outlined in the `requirements.txt` file.
 
-# Run the cells in the notebook to analyze the metrics and explore the results.
+3. **Open the `playground.ipynb` notebook** in the Jupyter web interface.
+
+4. **Run the cells** in the notebook to analyze the metrics and explore the results. Each cell is designed to guide you through the analysis step by step.
+
 
