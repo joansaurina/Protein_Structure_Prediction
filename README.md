@@ -18,10 +18,26 @@ Protein structure prediction is crucial for advancing computational biology, wit
 - **Metrics**: Comprehensive evaluation using confidence scores, alignment errors, and structural deviations.
 - **Code**: Modular implementation for benchmarking diffusion-based prediction models.
 
-## Goals
+# Metrics Analysis
 
-This repository aims to provide a transparent and reproducible framework for evaluating current AI-driven structural prediction methods, emphasizing their strengths, limitations, and potential for future applications.
+This repository is designed for detailed analysis of metrics using the available data and tools. Follow the steps below to install dependencies and run the Jupyter notebook.
 
-# Analyze Metrics
+## Requirements
 
-Run the script `python analyze.py` to calculate and display the mean of key metrics (PAE, RMSD, pLDDT, pTM) for different groups: **Chai**, **Fold**, and **Protenix**.
+To install the necessary dependencies, ensure you have `pip` or `conda` installed in your environment. Then, run the following command:
+
+### With `pip`
+
+```bash
+pip install -r requirements.txt
+```
+
+## Running the Notebook
+
+Once the dependencies are installed, follow these steps:
+
+```bash
+# Open the playground.ipynb notebook from the Jupyter web interface.
+
+# Run the cells in the notebook to analyze the metrics and explore the results.
+
